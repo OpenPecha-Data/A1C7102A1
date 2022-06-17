@@ -1,0 +1,19 @@
+segment_sources:
+  I80FF0F0F:
+    type: origin_type
+    relation: translation
+    language: en
+  I8ABA804E:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  b78b012ab4a1493eae3c669f47ad6706:
+    I80FF0F0F: 3e3c2da8256f4a53b4413b45da830f4f
+    I8ABA804E: 8fe89cee606a4dea965ee836fcce2870
+  db9d40d94a3141098ecac923cd4262d8:
+    I80FF0F0F: e640470f007b46d5bffb826f294f30f0
+    I8ABA804E: 1ee1aabbe38f4836969affad7cbe39fb
+  503c42540a924c8ab4315378ec805841:
+    I80FF0F0F: 6d5091683c01419aad6e7061f0d32b31
+    I8ABA804E: 40631ee27d41446ab075f17245edeaa1
